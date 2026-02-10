@@ -42,8 +42,24 @@
 <code>styled-components</code>
 
 ---
+### 🔵 03. CAPABILITIES
+## TECH STACK
 
-### <span style="color:#8c52ff;">⌁ BACKEND</span>
+### 🟦 << FRONTEND
+[![HTML](https://img.shields.io/badge/HTML-000000?logo=html5&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-000000?logo=css3&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?logo=javascript&logoColor=black&style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-000000?logo=react&logoColor=white&style=flat)](https://react.dev)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat)](https://nextjs.org)
+[![Vite](https://img.shields.io/badge/Vite-000000?logo=vite&logoColor=white&style=flat)](https://vitejs.dev)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?logo=tailwind-css&logoColor=white&style=flat)](https://tailwindcss.com)
+[![DaisyUI](https://img.shields.io/badge/DaisyUI-000000?logo=daisyui&logoColor=white&style=flat)](https://daisyui.com)
+[![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?logo=shadcn&logoColor=white&style=flat)](https://shadcn.com)
+
+### 🟪 🗃️ BACKEND
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)](https://nodejs.org)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat)](https://expressjs.com)
+<!-- ### <span style="color:#8c52ff;">⌁ BACKEND</span>
 
 <code>Node.js</code>
 <code>Express.js</code>
@@ -73,7 +89,7 @@
 ### <span style="color:#8c52ff;">⌁ REAL-TIME & COMMUNICATION</span>
 
 <code>Socket.IO</code>
-<code>WebSockets</code>
+<code>WebSockets</code> -->
 
 ---
 
