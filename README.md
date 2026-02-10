@@ -1,10 +1,4 @@
-<!-- ===================== HERO / BANNER ===================== -->
-<p align="center">
-  <!-- Optional banner image -->
-  <!-- Upload your banner to this repo and replace the src -->
-  <!-- <img src="assets/banner.png" /> -->
-</p>
-
+<!-- ===================== HERO ===================== -->
 <h1 align="center">
   <span style="color:#6366f1;">Selpina Miranda Gultom</span>
 </h1>
@@ -15,7 +9,7 @@
 
 <p align="center">
   I build production-ready full-stack web applications with a focus on<br/>
-  real-time systems, scalable backend architecture, and modern frontend development.
+  scalable backend systems, modern frontend architecture, and real-time features.
 </p>
 
 <p align="center">
@@ -26,96 +20,99 @@
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
-## <span style="color:#8c52ff;">✦ Tech Stack</span>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-6366f1?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-6366f1?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-6366f1?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-6366f1?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-8c52ff?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-8c52ff?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-8c52ff?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-6366f1?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-6366f1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-6366f1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Socket.IO-8c52ff?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TanStack_Query-8c52ff?style=for-the-badge&logo=reactquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zustand-8c52ff?style=for-the-badge&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-6366f1?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-6366f1?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudinary-6366f1?style=for-the-badge&logo=cloudinary&logoColor=white"/>
-</p>
+## <span style="color:#6366f1;">03. CAPABILITIES</span>
+# <span style="color:#6366f1;">TECH STACK</span>
 
 ---
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
-## <span style="color:#8c52ff;">✦ Featured Projects</span>
+### <span style="color:#8c52ff;">⌁ FRONTEND</span>
+
+<code>HTML</code>
+<code>CSS</code>
+<code>JavaScript</code>
+<code>React</code>
+<code>React DOM</code>
+<code>Next.js</code>
+<code>Vite</code>
+<code>React Router DOM</code>
+<code>Tailwind CSS</code>
+<code>DaisyUI</code>
+<code>shadcn/ui</code>
+<code>Radix UI</code>
+<code>styled-components</code>
+
+---
+
+### <span style="color:#8c52ff;">⌁ BACKEND</span>
+
+<code>Node.js</code>
+<code>Express.js</code>
+
+---
+
+### <span style="color:#8c52ff;">⌁ DATABASES & CMS</span>
+
+<code>MongoDB</code>
+<code>Mongoose</code>
+<code>MySQL</code>
+<code>PostgreSQL</code>
+<code>Supabase</code>
+<code>Sanity CMS</code>
+
+---
+
+### <span style="color:#8c52ff;">⌁ AUTHENTICATION & SECURITY</span>
+
+<code>JSON Web Token (JWT)</code>
+<code>bcrypt</code>
+<code>Clerk</code>
+<code>cookie-parser</code>
+
+---
+
+### <span style="color:#8c52ff;">⌁ REAL-TIME & COMMUNICATION</span>
+
+<code>Socket.IO</code>
+<code>WebSockets</code>
+
+---
+
+## <span style="color:#8c52ff;">✦ FEATURED PROJECTS</span>
 
 ### 🟣 SimpleChat — Real-Time Chat Application
-<p>
-  <!-- Upload screenshot and replace src -->
-  <!-- <img src="assets/simplechat.png" /> -->
-</p>
-
 Real-time messaging platform with WebSocket communication, secure authentication, and scalable backend design.  
-**Tech:** React, Node.js, MongoDB, Socket.IO
+**Tech:** React · Node.js · MongoDB · Socket.IO  
 
-[🔗 View Repository](https://github.com/YOUR_USERNAME/simplechat)
+🔗 **Repository:**  
+https://github.com/YOUR_USERNAME/simplechat
 
 ---
 
 ### 🟣 Lane — Project Management SaaS
-<p>
-  <!-- <img src="assets/lane.png" /> -->
-</p>
+Trello-style project management app with modern server-driven UI.  
+**Tech:** Next.js · TypeScript · Supabase · Clerk  
 
-Trello-style task management application built with modern server-driven UI architecture.  
-**Tech:** Next.js, TypeScript, Supabase, Clerk
-
-[🔗 View Repository](https://github.com/YOUR_USERNAME/lane)
+🔗 **Repository:**  
+https://github.com/YOUR_USERNAME/lane
 
 ---
 
 ### 🟣 Lingua — Language Exchange Platform
-<p>
-  <!-- <img src="assets/lingua.png" /> -->
-</p>
+Language learning platform with real-time chat and user matching.  
+**Tech:** React · Node.js · Real-Time APIs  
 
-Social platform for language learners featuring real-time chat and video communication.  
-**Tech:** React, Node.js, Stream Chat
-
-[🔗 View Repository](https://github.com/YOUR_USERNAME/lingua)
+🔗 **Repository:**  
+https://github.com/YOUR_USERNAME/lingua
 
 ---
 
-<!-- ===================== EDUCATION ===================== -->
-## <span style="color:#8c52ff;">✦ Education</span>
+## <span style="color:#8c52ff;">✦ EDUCATION</span>
 
 **Bachelor of Science in Computer Science**  
 Nanjing University of Information Science and Technology  
 2022 – 2026
 
 ---
-
-<!-- ===================== CLOSURE ===================== -->
-<p align="right">
-  <!-- Optional closing illustration -->
-  <!-- <img src="assets/closing.png" width="280" /> -->
-</p>
 
 <p align="center">
   <em>Clean code · Scalable systems · Thoughtful UI</em>
