@@ -47,10 +47,6 @@ A WebRTC-based video calling application with integrated real-time text chat. It
 A foundational real-time chat application built to master WebSocket concepts. It features message persistence, user presence indicators, and a clean, accessible UI, reflecting continuous practice and experimentation with modern backend/frontend tools.
 </p>
 
-**📦 Other Small Projects**  
-<p style="text-align: justify;">
-Includes various utility scripts, CLI tools, and reusable UI components (e.g., accessible React components built with Tailwind and Radix UI) that showcase a commitment to refining my craft and automating development workflows.
-</p>
 
 ---
 
