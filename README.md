@@ -9,7 +9,13 @@ I'm an **aspiring Software Engineer** who's passionate about building things tha
 > 💡 **Currently diving deeper into:** TypeScript, Docker, and system design patterns. *I've started containerizing my applications with Docker to better understand deployment workflows and am excited to apply these skills in a professional environment.*
 
 I'd rather build something real than pretend I know everything. Always open to feedback, code reviews, and learning from people who know more than m
+#
+### 🎓 Education
 
+**Nanjing University Of Information Science and Technology**  
+*Bachelor's in Computer Science [2022 - 2026]*
+<br>
+**Relevant coursework:** Software Engineering, Object-Oriented Analysis & Design, Data Structures & Algorithm, Database Fundamentals & Systems, Database System & Application, Operating System, Computer Networks, Web Programming Design, Python Programming, Programming Language Foundations (Java) I, Software Project Training, Compiler Theory.
 </div>
 
 ---
