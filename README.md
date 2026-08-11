@@ -20,67 +20,13 @@ I'd rather build something real than pretend I know everything. Always open to f
 
 ---
 
-## 🚀 Project Showcase
-
-**🎓 EduSystem**  
-<p style="text-align: justify;">
-A comprehensive full-stack educational management system designed for student tracking, grading, and course management. It features custom-built authentication, role-based access control, and demonstrating end-to-end project delivery from database schema design to deployment.
-</p>
-
-**🌐 Lingua**  
-<p style="text-align: justify;">
-A language exchange platform that connects users to practice different languages through intelligent matching and real-time chat. Built to handle secure, dynamic user-to-user interactions, featuring real-time matching logic and persistent chat history.
-</p>
-
-**📅 Lane**  
-<p style="text-align: justify;">
-A schedule management application that helps users organize daily tasks, track project progress, and meet deadlines. It showcases strong state management and UX sensibilities through intuitive task prioritization and a clean, responsive dashboard design.
-</p>
-
-**🎥 Video Call Chat App**  
-<p style="text-align: justify;">
-A WebRTC-based video calling application with integrated real-time text chat. It demonstrates proficiency with advanced browser APIs and real-time communication protocols, featuring robust peer-to-peer connection handling and media stream management.
-</p>
-
-**💬 Simple Chat App**  
-<p style="text-align: justify;">
-A foundational real-time chat application built to master WebSocket concepts. It features message persistence, user presence indicators, and a clean, accessible UI, reflecting continuous practice and experimentation with modern backend/frontend tools.
-</p>
-
-
----
-
-## 🧰 Tech Stack
-
-**🎨 FRONTEND**  
-HTML, CSS, JavaScript, React, React DOM, Next.js, Vite, React Router DOM, Tailwind CSS, DaisyUI, shadcn/ui, Radix UI, styled-components
-
-**⚙️ BACKEND**  
-Node.js, Express.js
-
-**🗄️ DATABASES & CMS**  
-MongoDB, Mongoose, MySQL, PostgreSQL, Supabase, Sanity CMS
-
-**🔐 AUTHENTICATION & SECURITY**  
-JSON Web Token (JWT), bcrypt, Clerk, Cookie-parser
-
-**📡 REAL-TIME & COMMUNICATION**  
-Socket.IO, Socket.IO Client, Stream Chat SDK
-
-**🛠️ TOOLS**  
-ESLint, Nodemon, dotenv, CORS
-
-**🚀 DEPLOYMENT**  
-Vercel, Koyeb
-
----
-
 ## 📫 Let's Connect!
 
 I'm actively looking for **Junior Software Engineer** or **Frontend/Full-Stack Developer** roles where I can contribute meaningfully, learn from senior engineers, and build products that make a difference.
 
 **I bring:**
-- ✅ Strong JavaScript/React skills and modern UI/UX sensibilities
+- ✅ decent
+- JavaScript/React skills and modern UI/UX sensibilities
 - ✅ A growth mindset and openness to feedback
 - ✅ Solid understanding of databases, API design, and real-time communication
 - ✅ Willingness to step outside my comfort zone and learn new technologies
