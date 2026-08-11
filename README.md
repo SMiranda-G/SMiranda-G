@@ -25,8 +25,7 @@ I'd rather build something real than pretend I know everything. Always open to f
 I'm actively looking for **Junior Software Engineer** or **Frontend/Full-Stack Developer** roles where I can contribute meaningfully, learn from senior engineers, and build products that make a difference.
 
 **I bring:**
-- ✅ decent
-- JavaScript/React skills and modern UI/UX sensibilities
+- ✅ decent JavaScript/React skills and modern UI/UX sensibilities
 - ✅ A growth mindset and openness to feedback
 - ✅ Solid understanding of databases, API design, and real-time communication
 - ✅ Willingness to step outside my comfort zone and learn new technologies
